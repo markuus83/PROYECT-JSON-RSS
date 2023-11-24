@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming languages",
+    "home_page_url": "https://github.com/markuus83/PROYECT-JSON-RSS/",
+    "feed_url": "https://github.com/markuus83/PROYECT-JSON-RSS/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is Python",
+    "url": "https://markuus83.github.io/PROYECT-JSON-RSS/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://markuus83.github.io/PROYECT-JSON-RSS/java.html"
+    }
+    ]
+   }
+   
